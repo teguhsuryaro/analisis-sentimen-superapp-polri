@@ -1,6 +1,8 @@
 # Virtual Environment
 venv/
 .venv/
+data/
+*.csv
 
 # Python cache
 __pycache__/
